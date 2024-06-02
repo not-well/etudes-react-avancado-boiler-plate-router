@@ -1,7 +1,9 @@
+import * as Styles from './styles';
+
 const Main = () => (
-  <main>
+  <Styles.Wrapper>
     <h1>Teste</h1>
-  </main>
+  </Styles.Wrapper>
 );
 
 export default Main;
